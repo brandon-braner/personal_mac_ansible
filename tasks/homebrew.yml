@@ -11,6 +11,18 @@
       - postman
       - dbeaver-community
       - slack
+      - google-chrome
+      - firefox
+      - brave-browser
+      - fork #subscription
+      - notion
+      - ticktick
+      - moom
+      - hiddenbar
+      - menubar-stats
+      - 1password
+      - alfred
+
     homebrew_packages:
       - kubectl
       - terraform

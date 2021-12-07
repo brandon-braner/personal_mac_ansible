@@ -2,20 +2,31 @@
 
 We will be using Ansible to setup a Mac laptop / desktop. This should install everything we need to get a laptop up and running for a new developer.
 
-** Software that will be installed **
+### Software that will be installed  
+* 1password
+* alfred
+* brave
+* chrome
 * dbeaver
 * docker desktop
 * dockutil
+* firefox
+* fork
 * google cloud
+* hiddenbar
 * iterm2
 * kubectl
+* menubar-stats
+* moom
 * node
+* notion
 * oh-my-zsh
 * poetry
 * postman
 * pre-commit
 * pyenv
 * terraform
+* Tick Tick
 * tilt
 * slack
 * visual studio code
@@ -34,11 +45,18 @@ We will be using Ansible to setup a Mac laptop / desktop. This should install ev
 - [Sourcery - sourcery.sourcery](https://marketplace.visualstudio.com/items?itemName=sourcery.sourcery)
 - [Angular Extension Pack - loiane.angular-extension-pack](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack)
 
-** Other Items**
+### Other Ansible tasks
 * Set your global git name and email
 * Create a new ssh key as id_rsa and id_rsa.pub and add it to your keychain. This should be added to your github account manually.
 * Removes all the cruft from your dock for you.
 
+### Manualy Installed Software
+* JetBrains
+* Yoink (App Store)
+* Instapaper (App Store)
+
+** App Store **
+* Craft - Docs and Notes Editor
 ## Create virtual environment
 * Open terminal and cd to the downloaded folder
 * Run `python3 -m venv venv` install command line dev tools when prompted. This may take a couple minutes as it is installing xcode. You will probably have to run `python3 -m venv venv` again if the folder doesn't exist.
