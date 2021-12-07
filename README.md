@@ -8,6 +8,7 @@ We will be using Ansible to setup a Mac laptop / desktop. This should install ev
 * brave
 * chrome
 * dbeaver
+* discord
 * docker desktop
 * dockutil
 * firefox
@@ -54,6 +55,7 @@ We will be using Ansible to setup a Mac laptop / desktop. This should install ev
 * JetBrains
 * Yoink (App Store)
 * Instapaper (App Store)
+* Fig fig.io
 
 ** App Store **
 * Craft - Docs and Notes Editor
