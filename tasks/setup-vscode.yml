@@ -12,6 +12,7 @@
       - HashiCorp.terraform
       - sourcery.sourcery
       - loiane.angular-extension-pack
+      - vscodevim.vim
   vars_files:
     - ../vars.yml
   tasks:

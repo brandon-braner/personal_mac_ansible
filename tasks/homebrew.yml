@@ -33,6 +33,7 @@
       - pyenv
       - poetry
       - dockutil
+      - tmux
       - zsh-syntax-highlighting
       - zsh-autosuggestions
       - zsh-completions

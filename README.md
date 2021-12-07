@@ -29,6 +29,7 @@ We will be using Ansible to setup a Mac laptop / desktop. This should install ev
 * terraform
 * Tick Tick
 * tilt
+* tmux
 * slack
 * visual studio code
 * zsh-autosuggestions
@@ -45,7 +46,10 @@ We will be using Ansible to setup a Mac laptop / desktop. This should install ev
 - [Terraform - HashiCorp.terraform](https://marketplace.visualstudio.com/items?itemName=HashiCorp.terraform)
 - [Sourcery - sourcery.sourcery](https://marketplace.visualstudio.com/items?itemName=sourcery.sourcery)
 - [Angular Extension Pack - loiane.angular-extension-pack](https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack)
-
+- [Vim - vscodevim.vim](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim)
+- [Tabnine - TabNine.tabnine-vscode](https://marketplace.visualstudio.com/items?itemName=TabNine.tabnine-vscode)
+- [Github Copilot - GitHub.copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- [Typescript - ms-vscode.vscode-typescript-next](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-next)
 ### Other Ansible tasks
 * Set your global git name and email
 * Create a new ssh key as id_rsa and id_rsa.pub and add it to your keychain. This should be added to your github account manually.
@@ -87,3 +91,6 @@ We will be using Ansible to setup a Mac laptop / desktop. This should install ev
 * run pbcopy < ~/.ssh/id_rsa.pub
 * Log into Github and go to your profile -> SSH & GPG Keys
 * Create a new ssh key and paste your public key copied above with pbcopy
+
+## Install Fonts
+run `./files/install.sh`
