@@ -23,6 +23,7 @@
       - 1password
       - alfred
       - discord
+      - figma
 
     homebrew_packages:
       - kubectl
