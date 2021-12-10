@@ -11,6 +11,7 @@ We will be using Ansible to setup a Mac laptop / desktop. This should install ev
 * discord
 * docker desktop
 * dockutil
+* fig
 * figma
 * firefox
 * fork
@@ -18,6 +19,8 @@ We will be using Ansible to setup a Mac laptop / desktop. This should install ev
 * hiddenbar
 * iterm2
 * kubectl
+* kubectx
+* K8's Lens
 * menubar-stats
 * moom
 * node

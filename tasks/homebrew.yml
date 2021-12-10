@@ -24,9 +24,12 @@
       - alfred
       - discord
       - figma
+      - lens
+      - fig
 
     homebrew_packages:
       - kubectl
+      - kubectx
       - terraform
       - node
       - tilt
