@@ -26,6 +26,7 @@
       - figma
       - lens
       - fig
+      - obsidian
 
     homebrew_packages:
       - kubectl

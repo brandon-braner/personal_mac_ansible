@@ -25,6 +25,7 @@ We will be using Ansible to setup a Mac laptop / desktop. This should install ev
 * moom
 * node
 * notion
+* obsidian
 * oh-my-zsh
 * poetry
 * postman
