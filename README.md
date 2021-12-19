@@ -23,6 +23,7 @@ We will be using Ansible to setup a Mac laptop / desktop. This should install ev
 * K8's Lens
 * menubar-stats
 * moom
+* ngrok
 * node
 * notion
 * obsidian
