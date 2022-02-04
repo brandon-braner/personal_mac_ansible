@@ -15,6 +15,7 @@ We will be using Ansible to setup a Mac laptop / desktop. This should install ev
 * figma
 * firefox
 * fork
+* graphviz
 * google cloud
 * hiddenbar
 * iterm2
