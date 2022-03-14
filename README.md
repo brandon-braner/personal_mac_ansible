@@ -19,6 +19,7 @@ We will be using Ansible to setup a Mac laptop / desktop. This should install ev
 * google cloud
 * hiddenbar
 * iterm2
+* krisp
 * kubectl
 * kubectx
 * kustomize

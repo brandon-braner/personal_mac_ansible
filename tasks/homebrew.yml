@@ -27,6 +27,7 @@
       - lens
       - fig
       - obsidian
+      - krisp
 
     homebrew_packages:
       - kubectl
