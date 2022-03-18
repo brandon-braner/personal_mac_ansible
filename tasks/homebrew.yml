@@ -43,6 +43,8 @@
       - dockutil
       - tmux
       - graphviz
+      - freetds
+      - openssl
       - zsh-syntax-highlighting
       - zsh-autosuggestions
       - zsh-completions

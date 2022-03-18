@@ -15,6 +15,7 @@ We will be using Ansible to setup a Mac laptop / desktop. This should install ev
 * figma
 * firefox
 * fork
+* freetds
 * graphviz
 * google cloud
 * hiddenbar
@@ -31,6 +32,7 @@ We will be using Ansible to setup a Mac laptop / desktop. This should install ev
 * notion
 * obsidian
 * oh-my-zsh
+* openssl
 * poetry
 * postman
 * pre-commit
