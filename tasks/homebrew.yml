@@ -28,6 +28,7 @@
       - fig
       - obsidian
       - krisp
+      - raycast
 
     homebrew_packages:
       - kubectl

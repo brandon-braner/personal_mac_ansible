@@ -41,6 +41,7 @@ We will be using Ansible to setup a Mac laptop / desktop. This should install ev
 * Tick Tick
 * tilt
 * tmux
+* raycast
 * slack
 * visual studio code
 * zsh-autosuggestions
