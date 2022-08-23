@@ -29,6 +29,7 @@
       - obsidian
       - krisp
       - raycast
+      - http-toolkit
 
     homebrew_packages:
       - kubectl

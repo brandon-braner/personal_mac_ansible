@@ -19,6 +19,7 @@ We will be using Ansible to setup a Mac laptop / desktop. This should install ev
 * graphviz
 * google cloud
 * hiddenbar
+* http-toolkit
 * iterm2
 * krisp
 * kubectl
